@@ -1,0 +1,1 @@
+Vi que el script proporcionado tenía unos detalles en los procedimientos almacenados, por eso me tome la libertad de hacerle unos ajustes
